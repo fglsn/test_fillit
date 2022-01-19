@@ -12,6 +12,7 @@ valid:
 	- time ../fillit/fillit validfiles/valid4
 	- time ../fillit/fillit validfiles/valid5
 	- time ../fillit/fillit validfiles/bigtetrimino24
+	- time ../fillit/fillit validfiles/test
 
 invalid:
 	- ../fillit/fillit invalidfiles/invalid0
